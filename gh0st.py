@@ -1,7 +1,5 @@
 import time
 
-# La key es: flag{K33p_uR_gh0s7s_4w4y} pero esto no termina aquí... Dale esta flag a L4z4 para continuar
-
 lineas = [
     "                        ██▓▓▓▓▓▓▓▓▓▓▓▓██                      ",
     "                      ████  ░░░░░░░░░░░░██▓▓                  ",
